@@ -8,5 +8,8 @@
 
 import Foundation
 
-print("Hello, World!")
+let UC = Unique_Characters()
+
+UC.startingPoint()
+
 
